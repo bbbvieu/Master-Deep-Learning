@@ -16,11 +16,11 @@ Source: rock_paper_scissors.ipynb
 The second exercise was to setup a variational autoencoder to reconstruct a set of number (32x32 images). An autoencoder is not so different of a multilayer perceptron, the point is the output data has the same type of the input one. Actually there is 2 steps in
 an autoencoder, the encode part (2 linear layers in our case) which compresses the data into what it thinks is the most useful information and the decode part (2 linear layers also) which takes this compressed information to recreate the data. In this TP we successfully remove the noises of number images to reconstruct clear and readable ones.
 
-Source: autoencoder.ipynb VAE.ipynb
+Source: autoencoder.ipynb / VAE.ipynb
 
 ## Adverserial Network
 
-
+Source: adverserial_images.ipynb
 
 ## Recursive Neural Network
 
@@ -30,4 +30,5 @@ Source: RNN.ipynb
 
 
 This project was carried by Oumaima Sohab and Bastien Vieublé
+
 N7: http://www.enseeiht.fr
